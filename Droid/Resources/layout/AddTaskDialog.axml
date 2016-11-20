@@ -34,11 +34,14 @@
         android:paddingBottom="10dp"
         android:paddingTop="10dp" />
     <DatePicker
-        android:id="@+id/datePicker1"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
-    <EditText
         android:id="@+id/dueDate"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
+    <Button
+        android:text="Complete!"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button1"
+        android:layout_gravity="center_horizontal"
+        android:visibility="gone" />
 </LinearLayout>

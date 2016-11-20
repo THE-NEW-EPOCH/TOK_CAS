@@ -2216,8 +2216,8 @@ namespace MySpringbrook.Droid
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f07009f
-			public const int AddTasks = 2131165343;
+			// aapt resource value: 0x7f0700a0
+			public const int AddTasks = 2131165344;
 			
 			// aapt resource value: 0x7f07009e
 			public const int TaskLabel = 2131165342;
@@ -2279,6 +2279,9 @@ namespace MySpringbrook.Droid
 			// aapt resource value: 0x7f07006b
 			public const int assignment = 2131165291;
 			
+			// aapt resource value: 0x7f07009f
+			public const int assignmentListView = 2131165343;
+			
 			// aapt resource value: 0x7f07006a
 			public const int assignmentText = 2131165290;
 			
@@ -2287,6 +2290,9 @@ namespace MySpringbrook.Droid
 			
 			// aapt resource value: 0x7f07002a
 			public const int bottom = 2131165226;
+			
+			// aapt resource value: 0x7f07006e
+			public const int button1 = 2131165294;
 			
 			// aapt resource value: 0x7f070044
 			public const int buttonPanel = 2131165252;
@@ -2327,14 +2333,14 @@ namespace MySpringbrook.Droid
 			// aapt resource value: 0x7f07004f
 			public const int customPanel = 2131165263;
 			
-			// aapt resource value: 0x7f07006d
-			public const int datePicker1 = 2131165293;
-			
 			// aapt resource value: 0x7f070058
 			public const int decor_content_parent = 2131165272;
 			
 			// aapt resource value: 0x7f070040
 			public const int default_activity_button = 2131165248;
+			
+			// aapt resource value: 0x7f0700a1
+			public const int deleteButton = 2131165345;
 			
 			// aapt resource value: 0x7f070070
 			public const int design_bottom_sheet = 2131165296;
@@ -2354,8 +2360,8 @@ namespace MySpringbrook.Droid
 			// aapt resource value: 0x7f07000e
 			public const int disableHome = 2131165198;
 			
-			// aapt resource value: 0x7f07006e
-			public const int dueDate = 2131165294;
+			// aapt resource value: 0x7f07006d
+			public const int dueDate = 2131165293;
 			
 			// aapt resource value: 0x7f07006c
 			public const int dueDateText = 2131165292;
@@ -2615,8 +2621,8 @@ namespace MySpringbrook.Droid
 			// aapt resource value: 0x7f070013
 			public const int showTitle = 2131165203;
 			
-			// aapt resource value: 0x7f0700a0
-			public const int sliding_tabs = 2131165344;
+			// aapt resource value: 0x7f0700a2
+			public const int sliding_tabs = 2131165346;
 			
 			// aapt resource value: 0x7f070072
 			public const int snackbar_action = 2131165298;
@@ -2672,8 +2678,8 @@ namespace MySpringbrook.Droid
 			// aapt resource value: 0x7f070048
 			public const int title_template = 2131165256;
 			
-			// aapt resource value: 0x7f0700a1
-			public const int toolbar = 2131165345;
+			// aapt resource value: 0x7f0700a3
+			public const int toolbar = 2131165347;
 			
 			// aapt resource value: 0x7f070032
 			public const int top = 2131165234;

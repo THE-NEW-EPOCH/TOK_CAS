@@ -2562,7 +2562,7 @@ containing a value of this type.
         public static final int notification_template_icon_bg=0x7f0200a1;
     }
     public static final class id {
-        public static final int AddTasks=0x7f07009f;
+        public static final int AddTasks=0x7f0700a0;
         public static final int TaskLabel=0x7f07009e;
         public static final int action0=0x7f070091;
         public static final int action_bar=0x7f07005a;
@@ -2583,9 +2583,11 @@ containing a value of this type.
         public static final int alertTitle=0x7f070049;
         public static final int always=0x7f07001e;
         public static final int assignment=0x7f07006b;
+        public static final int assignmentListView=0x7f07009f;
         public static final int assignmentText=0x7f07006a;
         public static final int beginning=0x7f07001b;
         public static final int bottom=0x7f07002a;
+        public static final int button1=0x7f07006e;
         public static final int buttonPanel=0x7f070044;
         public static final int cancel_action=0x7f070092;
         public static final int center=0x7f07002b;
@@ -2599,16 +2601,16 @@ containing a value of this type.
         public static final int contentPanel=0x7f07004a;
         public static final int custom=0x7f070050;
         public static final int customPanel=0x7f07004f;
-        public static final int datePicker1=0x7f07006d;
         public static final int decor_content_parent=0x7f070058;
         public static final int default_activity_button=0x7f070040;
+        public static final int deleteButton=0x7f0700a1;
         public static final int design_bottom_sheet=0x7f070070;
         public static final int design_menu_item_action_area=0x7f070077;
         public static final int design_menu_item_action_area_stub=0x7f070076;
         public static final int design_menu_item_text=0x7f070075;
         public static final int design_navigation_view=0x7f070074;
         public static final int disableHome=0x7f07000e;
-        public static final int dueDate=0x7f07006e;
+        public static final int dueDate=0x7f07006d;
         public static final int dueDateText=0x7f07006c;
         public static final int edit_query=0x7f07005c;
         public static final int end=0x7f07001c;
@@ -2695,7 +2697,7 @@ containing a value of this type.
         public static final int showCustom=0x7f070011;
         public static final int showHome=0x7f070012;
         public static final int showTitle=0x7f070013;
-        public static final int sliding_tabs=0x7f0700a0;
+        public static final int sliding_tabs=0x7f0700a2;
         public static final int snackbar_action=0x7f070072;
         public static final int snackbar_text=0x7f070071;
         public static final int snap=0x7f070027;
@@ -2714,7 +2716,7 @@ containing a value of this type.
         public static final int time=0x7f070097;
         public static final int title=0x7f070043;
         public static final int title_template=0x7f070048;
-        public static final int toolbar=0x7f0700a1;
+        public static final int toolbar=0x7f0700a3;
         public static final int top=0x7f070032;
         public static final int topPanel=0x7f070047;
         public static final int touch_outside=0x7f07006f;
