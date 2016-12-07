@@ -89,9 +89,8 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AddTaskDialog.cs" />
-    <Compile Include="AddTasks.cs" />
-    <Compile Include="GroupList.cs" />
+    <Compile Include="AddTask.cs" />
+    <Compile Include="Planner.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -104,7 +103,7 @@
     <AndroidResource Include="Resources\layout\Planner.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
-    <AndroidResource Include="Resources\layout\AddTaskDialog.axml">
+    <AndroidResource Include="Resources\layout\AddTask.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

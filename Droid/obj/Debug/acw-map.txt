@@ -1,11 +1,15 @@
-MySpringbrook.Droid.AddTaskDialog, MySpringbrook.Droid;md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTaskDialog
-MySpringbrook.Droid.AddTaskDialog, MySpringbrook.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTaskDialog
-MySpringbrook.Droid.AddTaskDialog;md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTaskDialog
-myspringbrook.droid.AddTaskDialog;md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTaskDialog
-MySpringbrook.Droid.AddTasks, MySpringbrook.Droid;md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTasks
-MySpringbrook.Droid.AddTasks, MySpringbrook.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTasks
-MySpringbrook.Droid.AddTasks;md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTasks
-myspringbrook.droid.AddTasks;md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTasks
+MySpringbrook.Droid.AddTask, MySpringbrook.Droid;md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTask
+MySpringbrook.Droid.AddTask, MySpringbrook.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTask
+MySpringbrook.Droid.AddTask;md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTask
+myspringbrook.droid.AddTask;md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTask
+MySpringbrook.Droid.AddTaskDone, MySpringbrook.Droid;md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTaskDone
+MySpringbrook.Droid.AddTaskDone, MySpringbrook.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTaskDone
+MySpringbrook.Droid.AddTaskDone;md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTaskDone
+myspringbrook.droid.AddTaskDone;md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTaskDone
+MySpringbrook.Droid.Planner, MySpringbrook.Droid;md5eb283b94bf7e5ca0fd5f26d9136caf03.Planner
+MySpringbrook.Droid.Planner, MySpringbrook.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5eb283b94bf7e5ca0fd5f26d9136caf03.Planner
+MySpringbrook.Droid.Planner;md5eb283b94bf7e5ca0fd5f26d9136caf03.Planner
+myspringbrook.droid.Planner;md5eb283b94bf7e5ca0fd5f26d9136caf03.Planner
 MySpringbrook.Droid.MainActivity, MySpringbrook.Droid;md5eb283b94bf7e5ca0fd5f26d9136caf03.MainActivity
 MySpringbrook.Droid.MainActivity, MySpringbrook.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5eb283b94bf7e5ca0fd5f26d9136caf03.MainActivity
 MySpringbrook.Droid.MainActivity;md5eb283b94bf7e5ca0fd5f26d9136caf03.MainActivity

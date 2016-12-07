@@ -17,7 +17,7 @@
         android:minHeight="25px"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/assignmentListView"
+        android:id="@+id/taskListView"
         android:layout_weight="1" />
     <LinearLayout
         android:orientation="horizontal"
