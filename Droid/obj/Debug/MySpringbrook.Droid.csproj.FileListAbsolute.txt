@@ -41,6 +41,8 @@ C:\Users\Flint\Source\Repos\TOK_CAS\Droid\obj\Debug\res\drawable-xhdpi\icon.png
 C:\Users\Flint\Source\Repos\TOK_CAS\Droid\obj\Debug\res\drawable-xxhdpi\icon.png
 C:\Users\Flint\Source\Repos\TOK_CAS\Droid\obj\Debug\R.cs.flag
 C:\Users\Flint\Source\Repos\TOK_CAS\Droid\obj\Debug\uploadflags.txt
+C:\Users\Flint\Source\Repos\TOK_CAS\Droid\obj\Debug\res\layout\addtask.xml
+C:\Users\Flint\Source\Repos\TOK_CAS\Droid\obj\Debug\res\layout\bellschedule.xml
 C:\Users\Flint\Source\Repos\TOK_CAS\Droid\bin\Debug\MySpringbrook.Droid.dll.mdb
 C:\Users\Flint\Source\Repos\TOK_CAS\Droid\bin\Debug\MySpringbrook.dll.mdb
 C:\Users\Flint\Source\Repos\TOK_CAS\Droid\bin\Debug\Java.Interop.dll.mdb
@@ -69,6 +71,5 @@ C:\Users\Flint\Source\Repos\TOK_CAS\Droid\obj\Debug\android\assets\System.Xml.dl
 C:\Users\Flint\Source\Repos\TOK_CAS\Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
 C:\Users\Flint\Source\Repos\TOK_CAS\Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\Users\Flint\Source\Repos\TOK_CAS\Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
-C:\Users\Flint\Source\Repos\TOK_CAS\Droid\obj\Debug\res\layout\addtask.xml
 C:\Users\Flint\Source\Repos\TOK_CAS\Droid\obj\Debug\MySpringbrook.Droid.dll.mdb
 C:\Users\Flint\Source\Repos\TOK_CAS\Droid\bin\Debug\MySpringbrook.Droid.dll.mdb

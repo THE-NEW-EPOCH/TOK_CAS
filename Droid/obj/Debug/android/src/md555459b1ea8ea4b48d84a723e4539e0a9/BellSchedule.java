@@ -1,7 +1,7 @@
-package md5eb283b94bf7e5ca0fd5f26d9136caf03;
+package md555459b1ea8ea4b48d84a723e4539e0a9;
 
 
-public class AddTasks
+public class BellSchedule
 	extends android.app.Activity
 	implements
 		mono.android.IGCUserPeer
@@ -12,15 +12,15 @@ public class AddTasks
 		__md_methods = 
 			"n_onCreate:(Landroid/os/Bundle;)V:GetOnCreate_Landroid_os_Bundle_Handler\n" +
 			"";
-		mono.android.Runtime.register ("MySpringbrook.Droid.AddTasks, MySpringbrook.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", AddTasks.class, __md_methods);
+		mono.android.Runtime.register ("MySpringbrook.Droid.Resources.scripts.BellSchedule, MySpringbrook.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", BellSchedule.class, __md_methods);
 	}
 
 
-	public AddTasks () throws java.lang.Throwable
+	public BellSchedule () throws java.lang.Throwable
 	{
 		super ();
-		if (getClass () == AddTasks.class)
-			mono.android.TypeManager.Activate ("MySpringbrook.Droid.AddTasks, MySpringbrook.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+		if (getClass () == BellSchedule.class)
+			mono.android.TypeManager.Activate ("MySpringbrook.Droid.Resources.scripts.BellSchedule, MySpringbrook.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
 	}
 
 

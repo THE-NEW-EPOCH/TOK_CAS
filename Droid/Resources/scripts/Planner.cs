@@ -12,7 +12,7 @@ using Android.Widget;
 
 namespace MySpringbrook.Droid
 {
-    [Activity(Label = "Planner", MainLauncher = true)]
+    [Activity(Label = "Planner", MainLauncher = false)]
     public class Planner : Activity
     {
         ListView taskList;
@@ -66,7 +66,7 @@ namespace MySpringbrook.Droid
         public void updateTaskList()
         {
             ISharedPreferences file = Application.Context.GetSharedPreferences("tasks", FileCreationMode.Private);
-
+            
             //Convert values from string to DateTime
             Dictionary<string, DateTime> data = new Dictionary<string, DateTime>();
             foreach (string s in file.All.Keys)

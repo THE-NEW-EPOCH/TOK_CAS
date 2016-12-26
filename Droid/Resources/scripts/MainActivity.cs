@@ -24,5 +24,14 @@ namespace MySpringbrook.Droid
 
 			LoadApplication(new App());
 		}
+
+        public static string aOrAn(string input)
+        {
+            input = input.ToLower();
+            if (input.StartsWith("a") || input.StartsWith("e") || input.StartsWith("i") || input.StartsWith("o") || input.StartsWith("u"))
+                return "an";
+            else
+                return "a";
+        }
 	}
 }

@@ -2,10 +2,6 @@ MySpringbrook.Droid.AddTask, MySpringbrook.Droid;md5eb283b94bf7e5ca0fd5f26d9136c
 MySpringbrook.Droid.AddTask, MySpringbrook.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTask
 MySpringbrook.Droid.AddTask;md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTask
 myspringbrook.droid.AddTask;md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTask
-MySpringbrook.Droid.AddTaskDone, MySpringbrook.Droid;md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTaskDone
-MySpringbrook.Droid.AddTaskDone, MySpringbrook.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTaskDone
-MySpringbrook.Droid.AddTaskDone;md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTaskDone
-myspringbrook.droid.AddTaskDone;md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTaskDone
 MySpringbrook.Droid.Planner, MySpringbrook.Droid;md5eb283b94bf7e5ca0fd5f26d9136caf03.Planner
 MySpringbrook.Droid.Planner, MySpringbrook.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5eb283b94bf7e5ca0fd5f26d9136caf03.Planner
 MySpringbrook.Droid.Planner;md5eb283b94bf7e5ca0fd5f26d9136caf03.Planner
@@ -14,6 +10,10 @@ MySpringbrook.Droid.MainActivity, MySpringbrook.Droid;md5eb283b94bf7e5ca0fd5f26d
 MySpringbrook.Droid.MainActivity, MySpringbrook.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5eb283b94bf7e5ca0fd5f26d9136caf03.MainActivity
 MySpringbrook.Droid.MainActivity;md5eb283b94bf7e5ca0fd5f26d9136caf03.MainActivity
 myspringbrook.droid.MainActivity;md5eb283b94bf7e5ca0fd5f26d9136caf03.MainActivity
+MySpringbrook.Droid.Resources.scripts.BellScheduleActivity, MySpringbrook.Droid;md555459b1ea8ea4b48d84a723e4539e0a9.BellScheduleActivity
+MySpringbrook.Droid.Resources.scripts.BellScheduleActivity, MySpringbrook.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md555459b1ea8ea4b48d84a723e4539e0a9.BellScheduleActivity
+MySpringbrook.Droid.Resources.scripts.BellScheduleActivity;md555459b1ea8ea4b48d84a723e4539e0a9.BellScheduleActivity
+myspringbrook.droid.resources.scripts.BellScheduleActivity;md555459b1ea8ea4b48d84a723e4539e0a9.BellScheduleActivity
 Android.Support.Design.Widget.Snackbar/SnackbarActionClickImplementor, Xamarin.Android.Support.Design;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
 Android.Support.Design.Widget.Snackbar+SnackbarActionClickImplementor, Xamarin.Android.Support.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
 Android.Support.Design.Widget.Snackbar.SnackbarActionClickImplementor;android.support.design.widget.Snackbar_SnackbarActionClickImplementor

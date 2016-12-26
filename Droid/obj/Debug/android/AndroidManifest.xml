@@ -4,14 +4,15 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:label="My Springbrook" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
-    <activity android:label="AddTask" android:name="md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTask" />
-    <activity android:label="Planner" android:name="md5eb283b94bf7e5ca0fd5f26d9136caf03.Planner">
+    <activity android:label="Add Assignment" android:name="md5eb283b94bf7e5ca0fd5f26d9136caf03.AddTask" />
+    <activity android:label="Planner" android:name="md5eb283b94bf7e5ca0fd5f26d9136caf03.Planner" />
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="MySpringbrook.Droid" android:theme="@style/MyTheme" android:name="md5eb283b94bf7e5ca0fd5f26d9136caf03.MainActivity" />
+    <activity android:label="BellSchedule" android:name="md555459b1ea8ea4b48d84a723e4539e0a9.BellScheduleActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="MySpringbrook.Droid" android:theme="@style/MyTheme" android:name="md5eb283b94bf7e5ca0fd5f26d9136caf03.MainActivity" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.thenewepoch.my_springbrook.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">
